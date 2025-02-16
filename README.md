@@ -25,7 +25,7 @@
                     <p style="margin-top:0pt; margin-bottom:8pt; line-height:116%; font-size:12pt;"><strong>Fecha</strong></p>
                 </td>
                 <td style="border-top:0.75pt solid #999999; border-left:0.75pt solid #999999; border-bottom:0.75pt solid #999999; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top;">
-                    <p style="margin-top:0pt; margin-bottom:8pt; line-height:116%; font-size:12pt;">14 de febrero del 2024</p>
+                    <p style="margin-top:0pt; margin-bottom:8pt; line-height:116%; font-size:12pt;">14 de febrero del 2025</p>
                 </td>
             </tr>
             <tr>
